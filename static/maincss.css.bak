@@ -1,0 +1,45 @@
+.form-control-dark {
+  border-color: #7BDFF2;
+  
+}
+.form-control-dark:focus {
+  border-color: #fff;
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+
+.text-small {
+  font-size: 85%;
+}
+
+.dropdown-toggle {
+  outline: 0;
+}
+
+.nav-bk{
+ 
+  background: #40E0D0;
+   
+  background: -webkit-linear-gradient(to right,#7BDFF2,#EFF7F6,#F2B5D4);
+   
+  background: linear-gradient(to right, #7BDFF2,#EFF7F6,#F2B5D4);
+   
+  }
+
+
+.angled-gradient {
+  background: linear-gradient(70deg, blue, pink);
+}
+
+body {
+  
+  background: linear-gradient(#EFF7F6 )
+}
+
+.logo-image{
+ 
+  border-radius: 50%;
+  
+  margin-top: -6px;
+}
+
+.con{text-align: right}
